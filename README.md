@@ -1,4 +1,4 @@
-# Auto Dinosaur
+# Mini_Project
 
 ## Add fun to Google chrome Dinosaur game
 
