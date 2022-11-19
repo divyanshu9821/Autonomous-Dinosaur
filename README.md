@@ -32,6 +32,8 @@ This python program runs in background when google chrome dinosaur game window i
 1. now you can beat your friend's highscore without touching the keyboard.
 
 ## Few things to note:-
+* don't forget to install libraries if not present in your computer(use "pip install pillow" & "pip install pyautogui")
+
 * donot resize the chrome windows because program still look the same spot on screen and after resizing or shifting that spot does not hit by tree or bird
 
 * you cannot do anything on your computer for now. 
